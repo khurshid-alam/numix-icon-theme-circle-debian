@@ -1,0 +1,13 @@
+Source: numix-icon-theme-circle
+Section: gnome
+Priority: extra
+Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.4
+Homepage: http://numixproject.org/
+
+Package: numix-icon-theme-circle
+Architecture: all
+Depends: ${misc:Depends}
+Description: Numix Circle icons.
+ Numix - Icon theme Circle daily PPA.
