@@ -8,6 +8,6 @@ Homepage: http://numixproject.org/
 
 Package: numix-icon-theme-circle
 Architecture: all
-Depends: ${misc:Depends}
-Description: Numix Circle icons.
- Numix - Icon theme Circle daily PPA.
+Depends: numix-icon-theme, ${misc:Depends}
+Description: Numix Circle icons
+ Numix Circle is an icon theme from the Numix project - http://numixproject.org.
