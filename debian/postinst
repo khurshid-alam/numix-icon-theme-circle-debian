@@ -1,5 +1,5 @@
 #!/bin/sh
 
-gtk-update-icon-cache /usr/share/icons/Numix-Circle
+gtk-update-icon-cache -f /usr/share/icons/Numix-Circle
 
 exit 0
